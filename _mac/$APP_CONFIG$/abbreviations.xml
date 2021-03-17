@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Tool_External Tools_PHPCSFixer">
+        <abbreviation name="cs-fix" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
