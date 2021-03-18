@@ -40,7 +40,7 @@
         <option value="TypeScript" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
