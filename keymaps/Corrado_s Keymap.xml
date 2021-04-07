@@ -9,16 +9,19 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta g" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CheckinProject" />
   <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.Reword.Commit" />
   <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideAllWindows" />
+  <action id="Jdbc.OpenConsole.New" />
   <action id="Terminal.ClearBuffer" />
   <action id="Tool_External Tools_PHPCSFixer">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="Vcs.UpdateProject" />
 </keymap>
