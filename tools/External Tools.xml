@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="PHPCSFixer" description="Fixes PHP files on demand" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="PHPCSFixer" description="Fixes PHP files on demand" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Sites/inventory-saas-api/vendor/bin/php-cs-fixer" />
       <option name="PARAMETERS" value="fix --verbose --config=$ProjectFileDir$/.php-cs-fixer.dist.php $FilePath$" />
