@@ -6,6 +6,7 @@
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping ext="neon" type="YAML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
